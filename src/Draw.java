@@ -14,7 +14,7 @@ public class Draw {
         System.out.println(" ----- ----- -----");
     }
 
-    //Draw the field with the updated array values entries!
+    //Draw the field with the updated array values!
     public void draw() {
         for (int i = 0; i < 3; i++) {
             System.out.println(" ----- ----- -----");
